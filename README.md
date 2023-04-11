@@ -110,16 +110,13 @@ Copy url and minimize the termux
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://t.me/CyberShieldX">
+  <a href="https://t.me/technicalwhitehat">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/CyberShieldX">
+  <a href="https://instagram.com/technicalwhitehat">
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/CyberShieldX">
-    <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCIQVMD1wD0M02V2JbVP_KrA">
+  <a href="https://bit.ly/3RzjdHX">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
@@ -138,7 +135,7 @@ Copy url and minimize the termux
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/technicalwhitehat"><code>@TechnicalWhiteHat</code></a> and the Telegram handle is <a href="https://t.me/technicalwhitehat"><code>@TechnicalWhiteHat</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
@@ -151,23 +148,9 @@ Copy url and minimize the termux
 <h2 align="center">🍻  Support 🍻</h2>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
+  <a href="https://youtu.be/MA-RBmB5sy8">
     <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
   </a>
 </p>
 
-<p align="center">Support this project with cryptocurrency:</p>
-
-<p align="center">
-  Bitcoin: 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd<br>
-  USDT TRC20: TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
-</p>
-
-
 <h3 align="center">❤️ Thank you Supporters ❤️</h3>
-
-<p align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://img.shields.io/github/stars/shivaya-dav/DogeRat?style=for-the-badge&color=yellow" alt="Stargazers repo roster on GitHub"/>
-  </a>
-</p>
