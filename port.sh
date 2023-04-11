@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 if ! command -v ssh > /dev/null; then
     echo "Error: openssh is not installed. Please install it before running this script."
